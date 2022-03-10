@@ -13,8 +13,7 @@ public class LibreriaGrafica {
 	public void aggiungi(Disegnabile d) {
 		if(size == elementi.length) {
 			Disegnabile[] tmp = new Disegnabile[elementi.length*2];
-			for(int i = 0; i < elementi.length; i++)
-				tmp[i] = elementi[i];
+			System.arraycopy(elementi, 0, tmp, 0, elementi.length);
 			elementi = tmp;
 		}
 		elementi[size]=d;

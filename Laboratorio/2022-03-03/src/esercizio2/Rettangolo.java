@@ -2,8 +2,8 @@ package esercizio2;
 
 public class Rettangolo implements Disegnabile {
 
-	private int base;
-	private int altezza;
+	private final int base;
+	private final int altezza;
 	
 	public Rettangolo(int base, int altezza) {
 		this.base = base;

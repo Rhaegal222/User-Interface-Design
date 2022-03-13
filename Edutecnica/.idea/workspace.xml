@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7074c015-5255-4b86-b953-78ad748dec08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Edutecnica.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/Elementi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio1/sommaInteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio2/contaCifre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio2/contaCifrev2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio3/cercaDivisori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio4/numeriPrimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metodi/Metodi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +55,10 @@
       <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Elementi" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.numeriPrimi">
+  <component name="RunManager" selected="Application.sommaInteri (1)">
     <configuration name="cercaDivisori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio3.cercaDivisori" />
-      <module name="Edutecnica" />
+      <module name="Elementi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="esercizio3.*" />
@@ -82,7 +71,7 @@
     </configuration>
     <configuration name="contaCifre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio2.contaCifre" />
-      <module name="Edutecnica" />
+      <module name="Elementi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="esercizio2.*" />
@@ -95,7 +84,7 @@
     </configuration>
     <configuration name="contaCifrev2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio2.contaCifrev2" />
-      <module name="Edutecnica" />
+      <module name="Elementi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="esercizio2.*" />
@@ -106,12 +95,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numeriPrimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizio4.numeriPrimi" />
-      <module name="Edutecnica" />
+    <configuration name="sommaInteri (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio1.sommaInteri" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizio4.*" />
+          <option name="PATTERN" value="esercizio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,7 +109,7 @@
     </configuration>
     <configuration name="sommaInteri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio1.sommaInteri" />
-      <module name="Edutecnica" />
+      <module name="Elementi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="esercizio1.*" />
@@ -134,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.numeriPrimi" />
-        <item itemvalue="Application.cercaDivisori" />
+        <item itemvalue="Application.sommaInteri (1)" />
         <item itemvalue="Application.contaCifrev2" />
-        <item itemvalue="Application.contaCifre" />
         <item itemvalue="Application.sommaInteri" />
+        <item itemvalue="Application.contaCifre" />
+        <item itemvalue="Application.cercaDivisori" />
       </list>
     </recent_temporary>
   </component>

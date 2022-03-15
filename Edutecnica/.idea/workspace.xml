@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7074c015-5255-4b86-b953-78ad748dec08" name="Changes" comment="">
+    <list default="true" id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio10/numeriUguali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio5/tassoInteresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio6/intersezione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio7/maxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio8/triangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio9/distanza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Edutecnica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Edutecnica.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,38 +39,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26HwG6UKXn4eyoT7Z6SWjY3GpEa" />
+  <component name="ProjectId" id="26L1RrCDz1HZqygnqRQwsdVEPUX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica" />
-      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Metodi" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Elementi" />
+      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\src" />
+      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sommaInteri (1)">
-    <configuration name="cercaDivisori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizio3.cercaDivisori" />
+  <component name="RunManager" selected="Application.numeriUguali">
+    <configuration name="distanza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio9.distanza" />
       <module name="Elementi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizio3.*" />
+          <option name="PATTERN" value="esercizio9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="contaCifre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizio2.contaCifre" />
+    <configuration name="intersezione" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio6.intersezione" />
       <module name="Elementi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizio2.*" />
+          <option name="PATTERN" value="esercizio6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="contaCifrev2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizio2.contaCifrev2" />
+    <configuration name="maxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio7.maxMin" />
       <module name="Elementi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizio2.*" />
+          <option name="PATTERN" value="esercizio7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sommaInteri (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizio1.sommaInteri" />
+    <configuration name="numeriUguali" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio10.numeriUguali" />
+      <module name="Elementi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizio1.*" />
+          <option name="PATTERN" value="esercizio10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sommaInteri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizio1.sommaInteri" />
+    <configuration name="triangolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esercizio8.triangolo" />
       <module name="Elementi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizio1.*" />
+          <option name="PATTERN" value="esercizio8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,22 +125,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sommaInteri (1)" />
-        <item itemvalue="Application.contaCifrev2" />
-        <item itemvalue="Application.sommaInteri" />
-        <item itemvalue="Application.contaCifre" />
-        <item itemvalue="Application.cercaDivisori" />
+        <item itemvalue="Application.numeriUguali" />
+        <item itemvalue="Application.distanza" />
+        <item itemvalue="Application.triangolo" />
+        <item itemvalue="Application.maxMin" />
+        <item itemvalue="Application.intersezione" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7074c015-5255-4b86-b953-78ad748dec08" name="Changes" comment="" />
-      <created>1647093725244</created>
+      <changelist id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="" />
+      <created>1647188047718</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647093725244</updated>
+      <updated>1647188047718</updated>
     </task>
     <servers />
   </component>

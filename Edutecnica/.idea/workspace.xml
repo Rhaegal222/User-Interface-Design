@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio10/numeriUguali.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio5/tassoInteresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio6/intersezione.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio7/maxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio8/triangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio9/distanza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classi e oggetti/Classi e oggetti.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio11/regine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementi/src/esercizio12/cavalli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Edutecnica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Edutecnica.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio1/sommaInteri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio10/numeriUguali.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio2/contaCifre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio2/contaCifrev2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio3/cercaDivisori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio4/numeriPrimi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio5/tassoInteresse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio6/intersezione.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio7/maxMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio8/triangolo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Elementi/esercizio9/distanza.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +55,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classi e oggetti/src" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Classi e oggetti\src" />
+      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Stringhe\src" />
+      <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Metodi\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\Elementi" />
       <recent name="C:\Users\Rhaegal222\OneDrive - Università della Calabria\GitHub\User-Interface-Design\Edutecnica\src" />

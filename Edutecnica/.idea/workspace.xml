@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="commit" />
+    <list default="true" id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/Laboratorio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/vcs.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

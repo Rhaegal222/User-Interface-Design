@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc407dd3-9405-4774-91f7-b8e4a797de66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Edutecnica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Edutecnica/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio1-ImageViewer/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio1-ImageViewer/src/application/controller/ChooseImageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio1-ImageViewer/src/application/view/ImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio1-ImageViewer/src/application/view/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio1-ImageViewer/src/application/view/SelectedImagePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/config/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/controller/SnakeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/model/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/model/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/model/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/model/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/view/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-03-31/Soluzione/Esercizio2-Snake/src/snake/view/SnakePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/01 - Java - Sintassi.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/01 - Java - Sintassi.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/02 - Java - Ereditarietà, Generics, Classi Wrapper.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/02 - Java - Ereditarietà, Generics, Classi Wrapper.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/03 - Java - Strutture Dati e Collections.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/03 - Java - Strutture Dati e Collections.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/05 - Java - Input-Output e Files.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/05 - Java - Input-Output e Files.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/06 - Java - Espressioni Regolari e Streams.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/06 - Java - Espressioni Regolari e Streams.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/01 - Interfacce Utente - MVC.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/01 - Interfacce Utente - MVC.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/02 - Interfacce Utente - Swing e JavaFX.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/02 - Interfacce Utente - Swing e JavaFX.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/03 - Interfacce Utente - Design.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/03 - Interfacce Utente - Design.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/04 - Interfacce Utente - Organizzazione di Contenuti.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/2 - Interfacce Utente/04 - Interfacce Utente - Organizzazione di Contenuti.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/3 - Thread e Database/01 - Thread e Database - Thread.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/3 - Thread e Database/01 - Thread e Database - Thread.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/3 - Thread e Database/02 - Thread e Database - Database.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/3 - Thread e Database/02 - Thread e Database - Database.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +54,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2022-03-31" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Snake.jar">
+    <configuration name="ImageViewer.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/2022-03-31/Eseguibili/ImageViewer.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Snake.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/2022-03-31/Eseguibili/Snake.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Snake.jar" />
+        <item itemvalue="JAR Application.ImageViewer.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

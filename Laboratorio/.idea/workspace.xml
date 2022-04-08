@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc407dd3-9405-4774-91f7-b8e4a797de66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26WJtsxsMcQP1rPfqIxvVJ5gRa6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -31,6 +35,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="JAR Application.Snake.jar">
     <configuration name="ImageViewer.jar" type="JarApplication" temporary="true">

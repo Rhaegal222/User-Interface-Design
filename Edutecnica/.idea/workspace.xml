@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/Laboratorio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laboratorio/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laboratorio/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="be80c5fe-b50f-457b-8f21-6e90dbdea6a4" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="26L1RrCDz1HZqygnqRQwsdVEPUX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Classi e oggetti/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">

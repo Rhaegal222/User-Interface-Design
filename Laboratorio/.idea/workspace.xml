@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc407dd3-9405-4774-91f7-b8e4a797de66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Progetto/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Progetto/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Progetto/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Progetto/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/src/main/java/com/example/biblioteca/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/src/main/java/com/example/biblioteca/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/src/main/java/com/example/biblioteca/TableViewSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/src/main/resources/com/example/biblioteca/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/target/classes/com/example/biblioteca/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/target/classes/com/example/biblioteca/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/target/classes/com/example/biblioteca/TableViewSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/target/classes/com/example/biblioteca/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Progetto-UID" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

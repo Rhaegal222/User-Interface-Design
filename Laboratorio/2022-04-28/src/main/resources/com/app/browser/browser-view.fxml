@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.web.WebView?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+
+<VBox xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.app.browser.BrowserController">
+   <children>
+      <MenuBar maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem fx:id="fileNewTab" mnemonicParsing="false" text="New Tab" />
+                  <MenuItem fx:id="fileNewWindow" mnemonicParsing="false" onAction="#newWindow" text="New Window" />
+                  <MenuItem mnemonicParsing="false" onAction="#refreshPage" text="Refresh" />
+                  <MenuItem fx:id="fileClose" mnemonicParsing="false" onAction="#closeBrowser" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Delete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <ScrollPane fitToHeight="true" fitToWidth="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" VBox.vgrow="SOMETIMES">
+         <content>
+            <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="396.0" prefWidth="596.0">
+               <children>
+                  <HBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="35.0" prefWidth="596.0">
+                     <children>
+                        <Button fx:id="backButton" mnemonicParsing="false" text="A">
+                           <HBox.margin>
+                              <Insets right="5.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Button fx:id="forwardButton" layoutX="19.0" layoutY="15.0" mnemonicParsing="false" text="B">
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </Button>
+                        <Button fx:id="homeButton" layoutX="23.0" layoutY="15.0" mnemonicParsing="false" onAction="#returnHome" text="Home">
+                           <HBox.margin>
+                              <Insets left="5.0" right="10.0" />
+                           </HBox.margin>
+                        </Button>
+                        <TextField fx:id="textField" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="25.0" promptText="Search on Google or type an url" HBox.hgrow="ALWAYS" />
+                        <Button fx:id="refreshButton" mnemonicParsing="false" onAction="#refreshPage" text="R">
+                           <HBox.margin>
+                              <Insets left="10.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Button fx:id="searchButton" mnemonicParsing="false" onAction="#searchPage" text="Search">
+                           <HBox.margin>
+                              <Insets left="5.0" />
+                           </HBox.margin>
+                        </Button>
+                     </children>
+                     <padding>
+                        <Insets bottom="2.0" />
+                     </padding>
+                     <VBox.margin>
+                        <Insets left="5.0" right="5.0" top="2.0" />
+                     </VBox.margin>
+                  </HBox>
+                  <WebView fx:id="webView" nodeOrientation="INHERIT" VBox.vgrow="SOMETIMES">
+                     <VBox.margin>
+                        <Insets top="5.0" />
+                     </VBox.margin></WebView>
+               </children>
+            </VBox>
+         </content></ScrollPane>
+   </children>
+   <padding>
+      <Insets bottom="1.0" left="1.0" right="1.0" top="1.0" />
+   </padding>
+</VBox>

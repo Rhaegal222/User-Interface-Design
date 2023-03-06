@@ -1,66 +1,117 @@
 package Es1;
 
-import java.util.Arrays;
+public class Main { //la classe main piglia solo una funzione e ogni classe deve avere il suo file cit. YanMark
 
-public class Main {
-    public static void main(String[] args) {
-        //1
-        int[] v = new int[10];
-        for(int i=0;i<10; ++i) v[i] = i;
+    static int[] v = new int[10];
+    public static void Stampa() {
+        for (int j : v) System.out.print(j + " ");
+        System.out.println();
+    }
 
-        //2
-        for(int i=0;i<10; ++i) System.out.print(v[i]+" "); System.out.println();
+    public static int getMax() {
+        Ordina(false);
+        return v[0];
+    }
 
-        //3
-        for(int i=0;i<10;i++){
-            for(int j=0;j<10;j++){
-                if(i!=j) if(v[i]<v[j]){
-                    int temp = v[i];
-                    v[i] = v[j];
-                    v[j] = temp;
+    public static int getMin() {
+        Ordina();
+        return v[0];
+    }
+
+    public static void Ordina(boolean c) {
+        if (!c) { //decrescente
+            for (int i = 0; i < 10; i++) {
+                for (int j = 0; j < 10; j++) {
+                    if (i != j) if (v[i] > v[j]) {
+                        int temp = v[i];
+                        v[i] = v[j];
+                        v[j] = temp;
+                    }
                 }
             }
-        }
-        int max = v[v.length-1];
-
-        //4
-        int min = v[0];
-
-        //5
-        int media = Arrays.stream(v).sum()/v.length;
-
-        //6
-        for(int i=0;i<10;i++){
-            for(int j=0;j<10;j++){
-                if(i!=j) if(v[i]<v[j]){
-                    int temp = v[i];
-                    v[i] = v[j];
-                    v[j] = temp;
+        } else {
+            for (int i = 0; i < 10; i++) {
+                for (int j = 0; j < 10; j++) {
+                    if (i != j) if (v[i] < v[j]) {
+                        int temp = v[i];
+                        v[i] = v[j];
+                        v[j] = temp;
+                    }
                 }
             }
-        }
-
-        //7
-        for(int i=0;i<10;i++){
-            for(int j=0;j<10;j++){
-                if(i!=j) if(v[i]>v[j]){
-                    int temp = v[i];
-                    v[i] = v[j];
-                    v[j] = temp;
-                }
-            }
-        }
-
-        //8
-        for(int n:v){
-            boolean c = n > 1;
-            for(int i=2; i<=n/2; i++){
-                if(n%i==0){
-                    c = false;
-                    break;
-                }
-            }
-            if(c) System.out.println(n);
         }
     }
+
+    public static void Ordina() { //crescente
+        for (int i = 0; i < 10; i++) {
+            for (int j = 0; j < 10; j++) {
+                if (i != j) if (v[i] < v[j]) {
+                    int temp = v[i];
+                    v[i] = v[j];
+                    v[j] = temp;
+                }
+            }
+        }
+    }
+
+    public static int getSomma() {
+        int somma = 0;
+        for (int n : v) somma += n;
+        return somma;
+    }
+
+    public static Double getMedia() {
+        double somma = getSomma();
+        return somma / v.length;
+    }
+
+    public static boolean isPrimo(int n) {
+        boolean c = n > 1;
+        for (int i = 2; i <= n / 2; i++) {
+            if (n % i == 0) {
+                return false;
+            }
+        }
+        return c;
+    }
+
+    public static void printPrimo() {
+        for (int n : v) {
+            if (isPrimo(n)) System.out.print(n + " ");
+        }
+    }
+
+        public static void main (String[]args){
+
+
+            for (int i = 0; i < 10; ++i) v[i] = i;
+
+            //2
+            System.out.print("Array: ");
+            Stampa();
+
+            //3
+            System.out.println("Massimo: " + getMax());
+
+            //4
+            System.out.println("Minimo: " + getMin());
+
+            //5
+            System.out.println("Media: " + getMedia());
+
+            //6
+            Ordina();
+            System.out.print("Array crescente: ");
+            Stampa();
+
+            //7
+            Ordina(false);
+            System.out.print("Array decrescente: ");
+            Stampa();
+
+            //8
+            System.out.print("Numeri primi: ");
+            printPrimo();
+
+        }
 }

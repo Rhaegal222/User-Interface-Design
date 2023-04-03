@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/GitHub" />
+  <component name="ChangeListManager">
+    <list default="true" id="0ff4c6f5-fd20-40df-8c9b-0cc5077a32a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/Es01/application/view/fileChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab04/src/Es01/questions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/Settings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/model/ExamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/model/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/model/QuestionReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/view/ExamFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sol-Lab04/application/view/ExamView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/model/ExamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/model/QuestionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/view/ExamFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/view/ExamView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/Lab04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/out/production/Lab04/Es01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/out/production/Lab04/Es01/application/view/fileChooser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/out/production/Lab04/Es01/application/view/mainView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/src/Es01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/src/Es01/application/model/loadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/src/Es01/application/view/fileChooser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codice-Lezioni/2023-03-22/Lab04/src/Es01/application/view/mainView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2023-03-17/Lab03/out/production/Lab03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2023-03-17/Lab03/prova.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../2023-03-17/Lab03/prova.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2023-03-17/Lab03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2023-03-17/Lab03/src/Es1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/01 - Interfacce Utente - MVC.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/01 - Interfacce Utente - MVC.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/02 - Interfacce Utente - Swing e Java FX.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/02 - Interfacce Utente - Swing e JavaFX.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/02 - Interfacce Utente - Swing e JavaFX.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/03 - Interfacce Utente - Design.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/03 - Interfacce Utente - Design.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/04 - Interfacce Utente - Organizzazione di Contenuti.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Slides/2 - Interfacce Utente/04 - Interfacce Utente - Organizzazione di Contenuti.pptx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2NhB08CjZLED8lAWMQawzMEtoW9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rhaegal222/GitHub/User-Interface-Design/Laboratorio/2023-03-23/Sol-Lab04&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ff4c6f5-fd20-40df-8c9b-0cc5077a32a0" name="Changes" comment="" />
+      <created>1680106207991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680106207991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

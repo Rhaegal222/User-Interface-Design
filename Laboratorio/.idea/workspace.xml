@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc407dd3-9405-4774-91f7-b8e4a797de66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/0 - Introduzione al corso/0-Introduzione al corso.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/1 - Java/04 - Java - Gestione Errori.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022-05-10/target/classes/it/unical/demacs/informatica/completejavafxinterface/model/Conversation.class" beforeDir="false" afterPath="$PROJECT_DIR$/2022-05-10/target/classes/it/unical/demacs/informatica/completejavafxinterface/model/Conversation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022-05-10/target/classes/it/unical/demacs/informatica/completejavafxinterface/model/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/2022-05-10/target/classes/it/unical/demacs/informatica/completejavafxinterface/model/Email.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Progetto-UID" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/rhaegal222/GitHub/User-Interface-Design/Laboratorio/2023-03-23/Lab04"
+  }
+}]]></component>
   <component name="RunManager" selected="JAR Application.ImageViewer.jar">
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.biblioteca.Login" />

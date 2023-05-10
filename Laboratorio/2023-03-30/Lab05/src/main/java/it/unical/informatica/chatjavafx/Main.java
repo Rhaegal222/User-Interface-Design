@@ -1,2 +1,8 @@
-package it.unical.informatica.lab05;public class Main {
+package it.unical.informatica.chatjavafx;
+
+public class Main {
+
+    public static void main(String[] args) {
+        ChatFrame.main(args);
+    }
 }

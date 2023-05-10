@@ -1,8 +1,8 @@
-module it.unical.lab05.lab05 {
+module it.unical.informatica.chatjavafx {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens it.unical.lab05.lab05 to javafx.fxml;
-    exports it.unical.lab05.lab05;
+    opens it.unical.informatica.chatjavafx to javafx.fxml;
+    exports it.unical.informatica.chatjavafx;
 }

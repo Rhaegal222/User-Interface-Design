@@ -59,7 +59,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>it.unical.lab05.lab05/it.unical.lab05.lab05.HelloApplication</mainClass>
+                            <mainClass>it.unical.informatica.lab05/it.unical.informatica.chatjavafx.ChatFrame</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

@@ -1,2 +1,4 @@
-package view;public class GraphicPanel {
+package view;
+
+public class GraphicPanel {
 }

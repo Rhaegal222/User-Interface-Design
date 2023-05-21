@@ -26,7 +26,7 @@ public class SceneHandler {
         if(stage != null)
             return;
         stage = primaryStage;
-        FXMLLoader loader = new FXMLLoader(getClass().getResource(RESOURCE_PATH + "Login.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("Login.fxml"));
         scene = new Scene(loader.load(), 300, 200);
         loadFonts();
         changedTheme();

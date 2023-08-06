@@ -19,9 +19,9 @@ public class CSVHandler extends Service<DatiVaccinazioni> {
                 URL csvData = new URL(data);
                 BufferedReader reader = new BufferedReader(new InputStreamReader(csvData.openStream()));
 
-                String line;
+                String line = null;
 
-                while(line == reader.readLine() != null){
+                while(line == reader.readLine() && line != null){
                     System.out.println(line);
                 }
                 return null;

@@ -15,9 +15,9 @@ public class ChatController {
 
 
     @FXML
-    private TextArea messageAreea;a;
+    private TextArea messageArea;
 
-    @FXMLea;
+    @FXML
     private TextArea allMessages;
 
     @FXML
